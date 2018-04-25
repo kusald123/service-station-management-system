@@ -1,2 +1,4 @@
 # service-station-management-system
-we have been built the software to gain exposure to MVC architectural pattern and to get used with java, jdbc, MySQL and jasper reports
+This system consists of employee management, fuel reservoir management, expenses management, stock and supply management and capable of sending SMS and e-mail alerts. 
+Technologies used java, jdbc, MySQL, jasper reports
+
